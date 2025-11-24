@@ -1,0 +1,12 @@
+chunk_id,doc_id,text
+DOC001_CH_0001,DOC001,"Para abrir sua conta corrente digital, você precisa preencher o cadastro no aplicativo, enviar uma foto do documento de identidade e um comprovante de residência recente."
+DOC001_CH_0002,DOC001,"O limite diário de saque em caixas eletrônicos é de R$ 2.000,00 por dia, sujeito à análise de crédito e às políticas de segurança do banco."
+DOC001_CH_0003,DOC001,"As principais tarifas da conta corrente são a tarifa de manutenção mensal, tarifa por saque excedente e tarifa de transferência para outros bancos."
+DOC002_CH_0001,DOC002,"O cartão de crédito pode ser solicitado diretamente pelo aplicativo, na área de cartões, preenchendo algumas informações adicionais de renda."
+DOC002_CH_0002,DOC002,"Para cancelar seu cartão de crédito, entre em contato com a nossa central de atendimento ou utilize a opção de cancelamento disponível no aplicativo."
+DOC003_CH_0001,DOC003,"Você pode cancelar serviços adicionais, como pacotes de SMS e seguros, a qualquer momento pelo aplicativo ou pela central de atendimento."
+DOC003_CH_0002,DOC003,O cancelamento de serviços adicionais entra em vigor em até 2 dias úteis após a confirmação do pedido de cancelamento.
+DOC004_CH_0001,DOC004,"Em caso de cobrança indevida, você pode solicitar reembolso abrindo uma contestação no aplicativo, anexando comprovantes e detalhes da transação."
+DOC004_CH_0002,DOC004,"Estornos no cartão de crédito podem levar até duas faturas para serem refletidos na sua fatura, dependendo da data de fechamento."
+DOC005_CH_0001,DOC005,"Nosso aplicativo móvel está disponível para Android e iOS, podendo ser baixado gratuitamente nas respectivas lojas oficiais."
+DOC005_CH_0002,DOC005,"Pelo aplicativo, você consegue consultar saldo, extrato, limites de cartão, limite de saque, realizar transferências e pagar boletos com código de barras."
